@@ -25,7 +25,6 @@ public class Cat extends Animal implements Hunter,Jumper,Runner {
 		c.jump();
 		c.run();
 		c.move(50);
-		
 
 	}
 
