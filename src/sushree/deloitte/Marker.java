@@ -12,7 +12,6 @@ public class Marker {
 			color=c;
 			price=p;
 		}
-		
 		public void setCategory(String category) {
 			this.category=category;
 		}
